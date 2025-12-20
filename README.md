@@ -35,7 +35,7 @@ The dataset contains 18,524 records with the following features:
 
 ## How to Run
 
-1. Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KunalPoonia/Introvert-Extrovert-Profiler/blob/main/eda_colab.ipynb)
+1. Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KunalPoonia/Introvert-Extrovert-Profiler/blob/main/eda_combined.ipynb)
 
 2. Or run locally:
 ```bash
